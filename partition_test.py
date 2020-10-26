@@ -8,8 +8,8 @@
 # date      :2019/4/2 10:57
 # log       :包含修改时间、修改人、修改line及原因
 # --------------------------------------------------------------------------------
-from trajCluster.partition import approximate_trajectory_partitioning, segment_mdl_comp, rdp_trajectory_partitioning
-from trajCluster.point import Point
+from traj_cluster.partition import approximate_trajectory_partitioning, segment_mdl_comp, rdp_trajectory_partitioning
+from traj_cluster.point import Point
 
 from matplotlib import pyplot as plt
 
